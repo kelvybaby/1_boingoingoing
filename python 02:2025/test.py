@@ -13,7 +13,7 @@ title("Test Plot")
 show()
 '''
 
-
+'kelvin'
 def guess_the_number() -> None:
     secret_number = 7  # The number to guess
     guess = int(input("Guess a number between 1 and 10: "))  # Get user input
