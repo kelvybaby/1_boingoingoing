@@ -24,7 +24,6 @@ def guess_the_number() -> None:
         print("Sorry, wrong guess. The secret number was", secret_number)
 
 
-# Call the function to play the game
 guess_the_number()
 
 
